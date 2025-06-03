@@ -6,10 +6,6 @@ import textwrap
 if __name__ == "__main__":
     num_examples = 50
 
-    lean_results = []
-    hydra_default = []
-    hydra_no_width_cmd = []
-
     lean_dir = "/Users/user/Projects/lean-mlir"
     hydra_dir = "/Users/user/Projects/souper"
 
